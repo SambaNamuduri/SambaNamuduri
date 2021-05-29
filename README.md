@@ -7,5 +7,5 @@ I love building intelligent data streaming applications using Apache Kafka,Apach
 <em>Right now</em> I'm learning what needs to become a data Engineer with touch of Machine learning. 
 
 
-#<h4>Connect With me </h4>
+#Connect With me
 <i class="fa fa-linkedin-square" style="font-size:36px"></i>
