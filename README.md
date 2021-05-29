@@ -8,6 +8,6 @@
 
 
 <h4>Connect with me</h4>
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"><a href="https://www.linkedin.com/in/samba-namuduri-94804a182/"</img>
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/>
 
 
