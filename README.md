@@ -1,17 +1,21 @@
 # Samba Namuduri 
 
-- Hello! 👋🏼 My name is Samba Namuduri from India. Working as a Software Developer. 💻
+- Hello! 👋🏼 My name is Samba Namuduri from India. Working as a Software Engineer. 💻
 
-- I love building intelligent data streaming applications using Apache Kafka,Apache Spark.
+- I build user-friendly web UIs with modern JavaScript libraries like jQuery, breathing life into the applications I create. Leveraging Spring, Java, and SQL scripts, I develop robust and scalable systems, crafting RESTful APIs and seamlessly integrating with diverse databases and other services. My expertise extends to designing and managing efficient SQL schemas, optimizing queries for swift data retrieval and maintaining data integrity.
 
-<em>Right now</em> , I'm learning what needs to become a Data Engineer with touch of Machine learning. 
+Furthermore, I am passionate about continuous improvement, actively adopting best practices, standards, and tools in software engineering and DevOps. Fostering collaboration, I participate in code reviews, pair programming, and agile practices to ensure code quality and knowledge sharing. My commitment to quality extends to utilizing SonarQube for code testing and remediation. Additionally, I contribute to internal tools by ingesting data from application server and database logs using Spring Integration.
+
+This concise profile showcases my diverse skillset, encompassing full-stack development, backend development, database management, and DevOps practices.
 
 
 <h4>Connect with me</h4>
 
-<a href="https://www.linkedin.com/in/samba-namuduri-94804a182/" rel="nofollow">
-<img alt="SambaNamuduri" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
+<a href="https://www.linkedin.com/in/sambanamuduri" rel="nofollow"> LinkedIn
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTkgMGgtMTRjLTIuNzYxIDAtNSAyLjIzOS01IDV2MTRjMCAyLjc2MSAyLjIzOSA1IDUgNWgxNGMyLjc2MiAwIDUtMi4yMzkgNS01di0xNGMwLTIuNzYxLTIuMjM4LTUtNS01em0tMTEgMTloLTN2LTExaDN2MTF6bS0xLjUtMTIuMjY4Yy0uOTY2IDAtMS43NS0uNzktMS43NS0xLjc2NHMuNzg0LTEuNzY0IDEuNzUtMS43NjQgMS43NS43OSAxLjc1IDEuNzY0LS43ODMgMS43NjQtMS43NSAxLjc2NHptMTMuNSAxMi4yNjhoLTN2LTUuNjA0YzAtMy4zNjgtNC0zLjExMy00IDB2NS42MDRoLTN2LTExaDN2MS43NjVjMS4zOTYtMi41ODYgNy0yLjc3NyA3IDIuNDc2djYuNzU5eiIvPjwvc3ZnPg=="></a>
+
 
 <br>
 
 <h4>Language and Tools</h4>
+Go,Java,SpringBoot,Hibernate,PostgreSQL,Oracle,MySQL,JavaScript,Jenkins,Bash,Ansible,Docker
