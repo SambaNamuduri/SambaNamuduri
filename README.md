@@ -10,5 +10,3 @@ for further efficiency. Eager to join a collaborative, innovative team and conti
 <h4>Connect with me</h4>
 <a href="https://www.linkedin.com/in/sambanamuduri" rel="nofollow"> LinkedIn </a>
 <br>
-<h4>Language and Tools</h4>
-Go,Java,SpringBoot,Hibernate,PostgreSQL,Oracle,MySQL,JavaScript,Jenkins,Bash,Ansible,Docker
