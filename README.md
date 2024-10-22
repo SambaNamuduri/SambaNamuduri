@@ -1,6 +1,6 @@
 # Samba Namuduri 
 
-- Hello! 👋🏼 My name is Samba Namuduri from India. Working as a Software Engineer. 💻
+- Hello! 👋🏼 My name is Samba Namuduri. Working as a Software Engineer. 💻
 
 - echo “Passionate full-stack developer building robust, scalable applications with Java & Spring. I design efficient microservices
 architectures and leverage Apache Kafka for asynchronous communication. Skilled in crafting user-friendly interfaces with
