@@ -1,11 +1,8 @@
 # Samba Namuduri 
 
-- Hello! 👋🏼 My name is Samba Namuduri. Working as a Software Engineer. 💻
+- Hello! 👋🏼 My name is Samba Namuduri.💻
 
-- echo “Passionate full-stack developer building robust, scalable applications with Java & Spring. I design efficient microservices
-architectures and leverage Apache Kafka for asynchronous communication. Skilled in crafting user-friendly interfaces with
-JavaScript and streamlining deployments using DevOps tools (Jenkins, Docker, Kubernetes). Bash scripting automates tasks
-for further efficiency. Eager to join a collaborative, innovative team and continuously learn.”
+- echo “Systems and backend development.”
 
 <h4>Connect with me</h4>
 <a href="https://www.linkedin.com/in/sambanamuduri" rel="nofollow"> LinkedIn </a>
